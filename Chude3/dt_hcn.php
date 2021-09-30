@@ -24,16 +24,7 @@
             color: #ff8100;
             font-size: medium;
         }
-        form{
-            height: 300px;
-            width: 500px;
-            margin: auto;
-            background: greenyellow;
-            border-bottom-left-radius: 50px;
-            border-bottom-right-radius: 50px;
-            border-top-left-radius: 50px;
-            border-top-right-radius: 50px;
-        }
+        
     </style>
 </head>
 <body>
