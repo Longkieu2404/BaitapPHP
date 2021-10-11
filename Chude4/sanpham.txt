@@ -1,0 +1,5 @@
+A123	Sữa tắm Xmen	Chai 500ml	4
+G123	Gạo thơm tu bông	Bao 5kg	10
+B001	Dầu đậu nành	Chai 1 lít	10
+B002	Muối ăn	Túi 500g	20
+B003	Hạt nêm Knor	Túi 2kg	20
